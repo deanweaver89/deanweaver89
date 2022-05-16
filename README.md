@@ -1,7 +1,7 @@
 <div align="center"></div>  
   
 
-### <div align="center">I'm Dean, a full-time full-stack web developer 👨‍💻 </div>  
+### <div align="left">I'm Dean, a full-time full-stack web developer 👨‍💻 </div>  
   
 
 - 🖥️ I am an experienced Front & Back End Developer.  
