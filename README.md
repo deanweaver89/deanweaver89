@@ -7,17 +7,14 @@
 - 🖥️ I am an experienced Front & Back End Developer.  
   
 
-- 🌱 I’m currently developing my skills in  React.js  
-  
-
-- ❓ Ask me about anything related to web technologies  
+- 🌱 I’m currently developing my skills in  React.js    
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr style="border:none;"><td valign="top" width="33%" style="border:none;">
+<table><tr><td valign="top" width="33%">
 
 
 
